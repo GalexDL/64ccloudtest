@@ -2,8 +2,8 @@ const itemIds = [999000, 999001, 999003, 999004, 999005, 999002, 999006, 999008,
 const itemNames = ["Premium Ticket", "1-Pull Summoning Ticket", "10-Pull Summoning Ticket",
                   "1-Pull Armament Ticket", "1-Pull Armament Ticket", "Dream Ticket Summon", "Dream Ticket Armament", "4&5-Star Ticket", "Gift Ticket"];
 
-const userIds = ["name", "comment", "vmoney", "free_vmoney", "rank_point"];
-const userNames = ["Name", "Bio", "Paid Lodestar Beads", "Lodestar Beads", "Rank"];
+const userIds = ["name", "comment", "degree_id", "free_vmoney", "vmoney", "rank_point"];
+const userNames = ["Name", "Bio", "ID", "Lodestar Beads", "Paid Lodestar Beads", "Rank"];
 
 let itemList = document.getElementById("item-list");
 let saveButton = document.getElementById("save-button");
