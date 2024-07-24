@@ -1,5 +1,8 @@
 # World Flipper Save Editor
 
+
+INCOMPLETE INSTRUCATIONS GAH GSHA SGHA
+
 Please make a copy of your save file before using, if something goes wrong!
 
 1) Download the Py file in Releases
