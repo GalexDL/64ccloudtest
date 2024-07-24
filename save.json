@@ -1,0 +1,8575 @@
+{
+  "user_info": {
+    "stamina": 1005,
+    "stamina_heal_time": 1047,
+    "boost_point": 100,
+    "boss_boost_point": 100,
+    "transition_state": 0,
+    "role": 1,
+    "name": "Galex ",
+    "last_login_time": "2024-07-24 01:35:42",
+    "comment": "Alex Dragalia Lost. Elisanne my love",
+    "vmoney": 0,
+    "free_vmoney": 1000000000,
+    "rank_point": 3047,
+    "star_crumb": 0,
+    "bond_token": 0,
+    "exp_pool": 682499,
+    "exp_pooled_time": 1721784942,
+    "leader_character_id": 121015,
+    "party_slot": 3,
+    "degree_id": 1,
+    "birth": 19900101,
+    "free_mana": 715158,
+    "paid_mana": 0,
+    "enable_auto_3x": false
+  },
+  "premium_bonus_list": [],
+  "expired_premium_bonus_list": null,
+  "user_daily_challenge_point_list": [
+    {
+      "id": 1,
+      "point": 2,
+      "campaign_list": [
+        {
+          "campaign_id": 2023013101,
+          "additional_point": 2
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "point": 2,
+      "campaign_list": [
+        {
+          "campaign_id": 2023013102,
+          "additional_point": 2
+        }
+      ]
+    },
+    {
+      "id": 5001,
+      "point": 10,
+      "campaign_list": []
+    },
+    {
+      "id": 10008,
+      "point": 1,
+      "campaign_list": []
+    }
+  ],
+  "bonus_index_list": null,
+  "login_bonus_received_at": null,
+  "user_notice_list": [],
+  "user_triggered_tutorial": [
+    2,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    31,
+    51,
+    52,
+    55,
+    58,
+    101,
+    200
+  ],
+  "user_tutorial": null,
+  "tutorial_gacha": null,
+  "cleared_regular_mission_list": {
+    "1": 5,
+    "2": 11,
+    "3": 5,
+    "4": 4,
+    "5": 5,
+    "6": 5,
+    "7": 7,
+    "8": 9,
+    "9": 8,
+    "10": 1,
+    "11": 1,
+    "12": 1,
+    "13": 1,
+    "22": 2,
+    "23": 4,
+    "24": 8,
+    "25": 1,
+    "26": 1,
+    "27": 1,
+    "29": 1,
+    "30": 10,
+    "31": 3,
+    "32": 16,
+    "33": 5,
+    "34": 5,
+    "35": 3,
+    "36": 3,
+    "37": 5,
+    "38": 5,
+    "40": 7,
+    "41": 3,
+    "42": 1,
+    "43": 1,
+    "44": 1,
+    "45": 1,
+    "46": 1,
+    "47": 1,
+    "48": 1,
+    "49": 1,
+    "50": 1,
+    "51": 1,
+    "65": 1,
+    "66": 4,
+    "67": 1,
+    "69": 1,
+    "70": 1,
+    "71": 1,
+    "108": 12,
+    "109": 1,
+    "110": 1,
+    "111": 1,
+    "112": 1
+  },
+  "user_character_list": {
+    "1": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083415,
+      "update_time": 1657286747,
+      "exp": 10,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "10": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631372082,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "111002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1671192120,
+      "exp": 153988,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "111007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745802,
+      "update_time": 1721745802,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "111051": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746142,
+      "update_time": 1721746142,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "111099": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783327,
+      "update_time": 1721783327,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "121002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083747,
+      "update_time": 1662463428,
+      "exp": 30725,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "121007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783327,
+      "update_time": 1721783327,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "121015": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012099,
+      "update_time": 1671191798,
+      "exp": 153988,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "121075": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783269,
+      "update_time": 1721783269,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "131001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631732311,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "131002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012099,
+      "update_time": 1663012099,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "131011": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461588,
+      "update_time": 1694521613,
+      "exp": 153988,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "131032": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746378,
+      "update_time": 1721746378,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "131152": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783862,
+      "update_time": 1721783862,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1671192377,
+      "exp": 117644,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1636539668,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1662463428,
+      "exp": 30902,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745750,
+      "update_time": 1721745750,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663625223,
+      "update_time": 1663625223,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141021": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662464020,
+      "update_time": 1662464290,
+      "exp": 153988,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141027": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663516731,
+      "update_time": 1663516731,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141039": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1671192413,
+      "update_time": 1671192413,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "141165": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783933,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631874467,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663372873,
+      "update_time": 1663372873,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632778796,
+      "update_time": 1657286747,
+      "exp": 12048,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1671192413,
+      "update_time": 1671192413,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151021": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662464020,
+      "update_time": 1662464020,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151099": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783108,
+      "update_time": 1721783108,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151147": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721784066,
+      "update_time": 1721784869,
+      "exp": 153988,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151153": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746251,
+      "update_time": 1721784857,
+      "exp": 153988,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "151165": {
+      "entry_count": 1,
+      "evolution_level": 1,
+      "over_limit_step": 4,
+      "protection": false,
+      "join_time": 1721746378,
+      "update_time": 1721784901,
+      "exp": 379988,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1,
+      "ex_boost": {
+        "status_id": 1,
+        "ability_id_list": [
+          33,
+          2
+        ]
+      }
+    },
+    "161001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663277350,
+      "update_time": 1663277350,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "161006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746378,
+      "update_time": 1721746378,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "161039": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783991,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "161105": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745944,
+      "update_time": 1721745944,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746063,
+      "update_time": 1721783224,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631083747,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632778796,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1671073190,
+      "update_time": 1671073190,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663239210,
+      "update_time": 1663239210,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461536,
+      "update_time": 1662461536,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211010": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663555122,
+      "update_time": 1721784066,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211012": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746305,
+      "update_time": 1721746305,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211013": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663277350,
+      "update_time": 1663277350,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211020": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1671073190,
+      "update_time": 1671073190,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "211032": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745944,
+      "update_time": 1721745944,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "213001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461862,
+      "update_time": 1662461862,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1721783224,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1721783933,
+      "exp": 2125,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083571,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663372873,
+      "update_time": 1721783108,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783862,
+      "update_time": 1721783862,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461536,
+      "update_time": 1662461536,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746305,
+      "update_time": 1721746305,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221010": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663516648,
+      "update_time": 1663516648,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221017": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1664071018,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221028": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745831,
+      "update_time": 1721745831,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221034": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746100,
+      "update_time": 1721746100,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221060": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746142,
+      "update_time": 1721746142,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "221066": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783327,
+      "update_time": 1721783327,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631396639,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631142817,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 3,
+      "protection": false,
+      "join_time": 1631332004,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631396639,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631083747,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632778796,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721784066,
+      "update_time": 1721784066,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231013": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663555122,
+      "update_time": 1663555122,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231038": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663239210,
+      "update_time": 1721783862,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231044": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1671073190,
+      "update_time": 1671073190,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231050": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746016,
+      "update_time": 1721783224,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231056": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746016,
+      "update_time": 1721746016,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231075": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745944,
+      "update_time": 1721745944,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231081": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783778,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "231087": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783108,
+      "update_time": 1721783269,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1721783224,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083747,
+      "update_time": 1721783862,
+      "exp": 0,
+      "stack": 5,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631732311,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083747,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 3,
+      "protection": false,
+      "join_time": 1631083645,
+      "update_time": 1721783108,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1636539668,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012828,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461588,
+      "update_time": 1662461588,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241015": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746016,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241039": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783778,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "241063": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746210,
+      "update_time": 1721783862,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "243001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083587,
+      "update_time": 1671192377,
+      "exp": 50263,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746305,
+      "update_time": 1721746305,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663239124,
+      "update_time": 1663239124,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1657286747,
+      "exp": 35,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663625223,
+      "update_time": 1663625223,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663239210,
+      "update_time": 1663239210,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663372873,
+      "update_time": 1663372873,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251017": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461588,
+      "update_time": 1662461588,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251023": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746378,
+      "update_time": 1721746378,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251029": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461588,
+      "update_time": 1662461588,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251047": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783933,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "251065": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745944,
+      "update_time": 1721745944,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "261003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746210,
+      "update_time": 1721746210,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "261004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632778796,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "261005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631332004,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "261008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783108,
+      "update_time": 1721783862,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "261010": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012828,
+      "update_time": 1663012828,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "261029": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012828,
+      "update_time": 1663012828,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "261047": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746100,
+      "update_time": 1721746100,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "263001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012063,
+      "update_time": 1663012063,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 5,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631874467,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631142817,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 7,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632778796,
+      "update_time": 1721783224,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631142817,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631083747,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 5,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631396639,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311010": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631732311,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311011": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1636539668,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311012": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746142,
+      "update_time": 1721746142,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311013": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662464323,
+      "update_time": 1721783108,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311019": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663239124,
+      "update_time": 1663239124,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "311025": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745831,
+      "update_time": 1721745831,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631396639,
+      "update_time": 1721783327,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631142817,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631142817,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 8,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012099,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 5,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746142,
+      "update_time": 1721746142,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631192294,
+      "update_time": 1721783224,
+      "exp": 0,
+      "stack": 6,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663724285,
+      "update_time": 1663724285,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321010": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663239210,
+      "update_time": 1663239210,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321011": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663239210,
+      "update_time": 1721783327,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321012": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783327,
+      "update_time": 1721783327,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "321013": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663122665,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "323001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632756849,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631874467,
+      "update_time": 1721784066,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1721783224,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631142817,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461536,
+      "update_time": 1721783269,
+      "exp": 0,
+      "stack": 6,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 2,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331010": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631332004,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331011": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 4,
+      "protection": false,
+      "join_time": 1631083666,
+      "update_time": 1721783991,
+      "exp": 39136,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331012": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632778796,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331013": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461588,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331014": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461536,
+      "update_time": 1721784066,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "331020": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746100,
+      "update_time": 1721784066,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "333001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1636693805,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663625223,
+      "update_time": 1721783224,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632778796,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 5,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662464020,
+      "update_time": 1662464020,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012828,
+      "update_time": 1663012828,
+      "exp": 0,
+      "stack": 5,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663239124,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 5,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631732311,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631396639,
+      "update_time": 1721784066,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631332004,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341011": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461661,
+      "update_time": 1721783269,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "341017": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783269,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631332004,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 3,
+      "protection": false,
+      "join_time": 1631083747,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746378,
+      "update_time": 1721746378,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631083747,
+      "update_time": 1721783862,
+      "exp": 0,
+      "stack": 6,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461536,
+      "update_time": 1662461536,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1632027977,
+      "update_time": 1721783108,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745944,
+      "update_time": 1721783327,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1662461661,
+      "update_time": 1662461661,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351015": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745831,
+      "update_time": 1721745831,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351021": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663277350,
+      "update_time": 1721783327,
+      "exp": 0,
+      "stack": 2,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "351033": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783327,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631332004,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631192294,
+      "update_time": 1721783862,
+      "exp": 0,
+      "stack": 5,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361003": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631142817,
+      "update_time": 1721783991,
+      "exp": 0,
+      "stack": 4,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746378,
+      "update_time": 1721746378,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361005": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1631083820,
+      "update_time": 1721783108,
+      "exp": 0,
+      "stack": 3,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631874467,
+      "update_time": 1721783778,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361007": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721784066,
+      "update_time": 1721784066,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361008": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746469,
+      "update_time": 1721746469,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361009": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1663012099,
+      "update_time": 1663012099,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361015": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721745831,
+      "update_time": 1721745831,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361021": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746016,
+      "update_time": 1721746016,
+      "exp": 0,
+      "stack": 1,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361027": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721746210,
+      "update_time": 1721746210,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "361033": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1721783933,
+      "update_time": 1721783933,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "442006": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631152294,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "443001": {
+      "entry_count": 1,
+      "evolution_level": 1,
+      "over_limit_step": 1,
+      "protection": false,
+      "join_time": 1636195546,
+      "update_time": 1662462689,
+      "exp": 3402,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "443002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 5,
+      "protection": false,
+      "join_time": 1636195826,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "512001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631370562,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "512002": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631333162,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "532001": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631190600,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    },
+    "532004": {
+      "entry_count": 1,
+      "evolution_level": 0,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1631339724,
+      "update_time": 1657286747,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [
+        {
+          "mana_board_index": 1,
+          "status": 0
+        },
+        {
+          "mana_board_index": 2,
+          "status": 0
+        }
+      ],
+      "mana_board_index": 1
+    }
+  },
+  "user_character_mana_node_list": {
+    "111002": [
+      222004201,
+      222004202,
+      222004203,
+      222004204,
+      222004219
+    ],
+    "121002": [
+      242004201,
+      242004202,
+      242004204,
+      242004205,
+      242004219
+    ],
+    "121015": [
+      242030201,
+      242030202,
+      242030203,
+      242030204,
+      242030205,
+      242030207,
+      242030219
+    ],
+    "131011": [
+      262022201,
+      262022202,
+      262022203,
+      262022204,
+      262022205,
+      262022207,
+      262022208,
+      262022209
+    ],
+    "141001": [
+      282002201,
+      282002202,
+      282002203,
+      282002204,
+      282002205,
+      282002206,
+      282002207,
+      282002208,
+      282002209,
+      282002210,
+      282002219
+    ],
+    "141004": [
+      282008201,
+      282008202,
+      282008203,
+      282008204
+    ],
+    "151165": [
+      302330207,
+      302330208,
+      302330201,
+      302330202,
+      302330203,
+      302330204,
+      302330205,
+      302330206
+    ],
+    "243001": [
+      486002201,
+      486002202,
+      486002203,
+      486002204,
+      486002205,
+      486002207
+    ],
+    "331011": [
+      662022201,
+      662022202,
+      662022203,
+      662022204,
+      662022205,
+      662022207,
+      662022219
+    ],
+    "443001": [
+      886002201,
+      886002207,
+      886002213
+    ]
+  },
+  "user_party_group_list": {
+    "1": {
+      "list": {
+        "1": {
+          "name": "Party A",
+          "character_ids": [
+            141001,
+            243001,
+            331011
+          ],
+          "unison_character_ids": [
+            141004,
+            111002,
+            121002
+          ],
+          "equipment_ids": [
+            4010014,
+            100003,
+            100001
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": true,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "2": {
+          "name": "Party B",
+          "character_ids": [
+            121015,
+            141001,
+            141021
+          ],
+          "unison_character_ids": [
+            111002,
+            243001,
+            331011
+          ],
+          "equipment_ids": [
+            4010014,
+            100002,
+            100001
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": true,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "3": {
+          "name": "Party C",
+          "character_ids": [
+            151165,
+            151153,
+            151147
+          ],
+          "unison_character_ids": [
+            111002,
+            121015,
+            331011
+          ],
+          "equipment_ids": [
+            5010057,
+            100002,
+            5050033
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": true,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "4": {
+          "name": "Party D",
+          "character_ids": [
+            1,
+            141001,
+            141004
+          ],
+          "unison_character_ids": [
+            111002,
+            243001,
+            251005
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "5": {
+          "name": "Party E",
+          "character_ids": [
+            1,
+            141001,
+            141004
+          ],
+          "unison_character_ids": [
+            111002,
+            243001,
+            251005
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "6": {
+          "name": "Party F",
+          "character_ids": [
+            1,
+            141001,
+            141004
+          ],
+          "unison_character_ids": [
+            111002,
+            243001,
+            251005
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "7": {
+          "name": "Party G",
+          "character_ids": [
+            1,
+            141001,
+            141004
+          ],
+          "unison_character_ids": [
+            111002,
+            243001,
+            251005
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "8": {
+          "name": "Party H",
+          "character_ids": [
+            1,
+            141001,
+            141004
+          ],
+          "unison_character_ids": [
+            111002,
+            243001,
+            251005
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "9": {
+          "name": "Party I",
+          "character_ids": [
+            1,
+            141001,
+            141004
+          ],
+          "unison_character_ids": [
+            111002,
+            243001,
+            251005
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "10": {
+          "name": "Party J",
+          "character_ids": [
+            1,
+            141001,
+            141004
+          ],
+          "unison_character_ids": [
+            111002,
+            243001,
+            251005
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        }
+      },
+      "color_id": 15
+    },
+    "2": {
+      "list": {
+        "11": {
+          "name": "Party A",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "12": {
+          "name": "Party B",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "13": {
+          "name": "Party C",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "14": {
+          "name": "Party D",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "15": {
+          "name": "Party E",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "16": {
+          "name": "Party F",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "17": {
+          "name": "Party G",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "18": {
+          "name": "Party H",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "19": {
+          "name": "Party I",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "20": {
+          "name": "Party J",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        }
+      },
+      "color_id": 15
+    },
+    "3": {
+      "list": {
+        "21": {
+          "name": "Party A",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "22": {
+          "name": "Party B",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "23": {
+          "name": "Party C",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "24": {
+          "name": "Party D",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "25": {
+          "name": "Party E",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "26": {
+          "name": "Party F",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "27": {
+          "name": "Party G",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "28": {
+          "name": "Party H",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "29": {
+          "name": "Party I",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "30": {
+          "name": "Party J",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        }
+      },
+      "color_id": 15
+    },
+    "4": {
+      "list": {
+        "31": {
+          "name": "Party A",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "32": {
+          "name": "Party B",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "33": {
+          "name": "Party C",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "34": {
+          "name": "Party D",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "35": {
+          "name": "Party E",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "36": {
+          "name": "Party F",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "37": {
+          "name": "Party G",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "38": {
+          "name": "Party H",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "39": {
+          "name": "Party I",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "40": {
+          "name": "Party J",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        }
+      },
+      "color_id": 15
+    },
+    "5": {
+      "list": {
+        "41": {
+          "name": "Party A",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "42": {
+          "name": "Party B",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "43": {
+          "name": "Party C",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "44": {
+          "name": "Party D",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "45": {
+          "name": "Party E",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "46": {
+          "name": "Party F",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "47": {
+          "name": "Party G",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "48": {
+          "name": "Party H",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "49": {
+          "name": "Party I",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "50": {
+          "name": "Party J",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        }
+      },
+      "color_id": 15
+    },
+    "6": {
+      "list": {
+        "51": {
+          "name": "Party A",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "52": {
+          "name": "Party B",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "53": {
+          "name": "Party C",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "54": {
+          "name": "Party D",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "55": {
+          "name": "Party E",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "56": {
+          "name": "Party F",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "57": {
+          "name": "Party G",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "58": {
+          "name": "Party H",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "59": {
+          "name": "Party I",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        },
+        "60": {
+          "name": "Party J",
+          "character_ids": [
+            1,
+            141001,
+            243001
+          ],
+          "unison_character_ids": [
+            331011,
+            141004,
+            111002
+          ],
+          "equipment_ids": [
+            null,
+            null,
+            null
+          ],
+          "ability_soul_ids": [
+            null,
+            null,
+            null
+          ],
+          "edited": false,
+          "options": {
+            "allow_other_players_to_heal_me": true
+          }
+        }
+      },
+      "color_id": 15
+    }
+  },
+  "item_list": {
+    "1": 284,
+    "2": 291,
+    "3": 100,
+    "4": 30,
+    "5": 0,
+    "6": 14,
+    "7": 7,
+    "9": 4,
+    "10": 51,
+    "11": 11,
+    "12": 5,
+    "13": 265,
+    "14": 219,
+    "15": 260,
+    "16": 30,
+    "42": 286,
+    "43": 211,
+    "44": 107,
+    "45": 30,
+    "46": 4,
+    "47": 14,
+    "48": 8,
+    "99": 603,
+    "101": 128,
+    "102": 2026,
+    "10001": 1,
+    "10003": 0,
+    "11001": 6,
+    "12002": 4,
+    "14001": 40,
+    "14002": 14,
+    "14003": 100,
+    "14004": 40,
+    "14005": 15,
+    "14006": 100,
+    "14007": 39,
+    "14008": 19,
+    "14009": 100,
+    "14010": 32,
+    "14011": 16,
+    "14012": 100,
+    "14013": 18,
+    "14014": 7,
+    "14015": 103,
+    "14016": 25,
+    "14017": 7,
+    "14018": 105,
+    "14037": 110,
+    "14040": 9,
+    "20003": 0,
+    "30028": 4,
+    "40000": 13,
+    "40010": 16,
+    "40020": 23,
+    "40050": 2,
+    "40090": 31,
+    "40110": 2,
+    "40130": 2,
+    "49000": 110,
+    "49001": 50,
+    "49100": 80,
+    "50102": 1,
+    "100000": 1815,
+    "500000": 6,
+    "980001": 0,
+    "990008": 160,
+    "999000": 4646,
+    "999001": 4646,
+    "999002": 8668,
+    "999003": 4674,
+    "999004": 74574,
+    "999005": 84846,
+    "999006": 86868,
+    "1010001": 1
+  },
+  "user_equipment_list": {
+    "100001": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": true,
+      "stack": 0
+    },
+    "100002": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "100003": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "100004": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "1010001": {
+      "enhancement_level": 0,
+      "level": 2,
+      "protection": false,
+      "stack": 5
+    },
+    "1060001": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 2
+    },
+    "1080001": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 1
+    },
+    "2010002": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 4
+    },
+    "2040001": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "2050001": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "2070001": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 1
+    },
+    "3010027": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "3030006": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "3070022": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "3080002": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "4010014": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "4010017": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "5010020": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "5010057": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 4
+    },
+    "5020009": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "5030037": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 4
+    },
+    "5050033": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 4
+    },
+    "5080014": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 0
+    },
+    "5090028": {
+      "enhancement_level": 0,
+      "level": 1,
+      "protection": false,
+      "stack": 4
+    }
+  },
+  "user_character_from_town_history": [],
+  "quest_progress": {
+    "1": [
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1001001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 54076,
+        "quest_id": 1001002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1001003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 64617,
+        "quest_id": 1002001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 74867,
+        "quest_id": 1002002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1003001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 93455,
+        "quest_id": 1003002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1004001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 92578,
+        "quest_id": 1004002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1004003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 99170,
+        "quest_id": 1005001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 144409,
+        "quest_id": 1005002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1006001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 140171,
+        "quest_id": 1006002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 156409,
+        "quest_id": 1006003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1007001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 354322,
+        "quest_id": 1007002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1008001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 209663,
+        "quest_id": 1008002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1008003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 1008004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2001001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 214106,
+        "quest_id": 2001002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 208051,
+        "quest_id": 2001003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2002001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 162336,
+        "quest_id": 2002002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2002003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 156292,
+        "quest_id": 2003001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 252078,
+        "quest_id": 2003002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 324201,
+        "quest_id": 2004001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 521130,
+        "quest_id": 2004002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2004003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 297373,
+        "quest_id": 2005001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 392466,
+        "quest_id": 2005002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2006001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 357296,
+        "quest_id": 2006002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2006003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 512248,
+        "quest_id": 2006004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2006005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 355225,
+        "quest_id": 2007001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 548801,
+        "quest_id": 2007002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 389109,
+        "quest_id": 2008001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 536316,
+        "quest_id": 2008002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2009001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 554671,
+        "quest_id": 2009002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 461888,
+        "quest_id": 2009003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2009004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 760417,
+        "quest_id": 2009005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2009006
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 2009007
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3001001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 531633,
+        "quest_id": 3001002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3001003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 486222,
+        "quest_id": 3001004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3002001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 952924,
+        "quest_id": 3002002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3003001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 587390,
+        "quest_id": 3003002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3004001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 615287,
+        "quest_id": 3004002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3004003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 893132,
+        "quest_id": 3004004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3004005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 484867,
+        "quest_id": 3005001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3005002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 719447,
+        "quest_id": 3005003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3006001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 834696,
+        "quest_id": 3006002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3007001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 315263,
+        "quest_id": 3007002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 728466,
+        "quest_id": 3007003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 758404,
+        "quest_id": 3007004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3008001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 695017,
+        "quest_id": 3008002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 920924,
+        "quest_id": 3008003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3009001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 946271,
+        "quest_id": 3009002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3009003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 852583,
+        "quest_id": 3009004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3009005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 491808,
+        "quest_id": 3010001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 900122,
+        "quest_id": 3010002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3011001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 849741,
+        "quest_id": 3011002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3012001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 722733,
+        "quest_id": 3012002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 738014,
+        "quest_id": 3012003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3013001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1460579,
+        "quest_id": 3013002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 3013003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4001001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 821894,
+        "quest_id": 4001002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 762262,
+        "quest_id": 4001003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4002001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1089722,
+        "quest_id": 4002002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4002003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 717301,
+        "quest_id": 4002004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 978091,
+        "quest_id": 4002005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4003001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 747006,
+        "quest_id": 4003002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1369234,
+        "quest_id": 4003003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4003004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 2148453,
+        "quest_id": 4003005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4003006
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 957500,
+        "quest_id": 4004001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 720639,
+        "quest_id": 4004002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4004003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1028261,
+        "quest_id": 4004004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 926072,
+        "quest_id": 4004005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4005001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1061696,
+        "quest_id": 4005002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1267672,
+        "quest_id": 4005003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4006001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1002160,
+        "quest_id": 4006002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1145618,
+        "quest_id": 4006003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4006004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1003129,
+        "quest_id": 4006005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1189499,
+        "quest_id": 4006006
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4007001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 365956,
+        "quest_id": 4007002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4007003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1033044,
+        "quest_id": 4008001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 895459,
+        "quest_id": 4008002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4008003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4009001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1385133,
+        "quest_id": 4009002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1349444,
+        "quest_id": 4010001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4010002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1432812,
+        "quest_id": 4011001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1228496,
+        "quest_id": 4011002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4011003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 2156062,
+        "quest_id": 4011004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 4011005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 5001001
+      },
+      {
+        "best_elapsed_time_ms": 44489,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 682495,
+        "quest_id": 5001002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 5001003
+      },
+      {
+        "best_elapsed_time_ms": 47382,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 674668,
+        "quest_id": 5002001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 5002002
+      },
+      {
+        "best_elapsed_time_ms": 29642,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 533746,
+        "quest_id": 5002003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 5003001
+      },
+      {
+        "best_elapsed_time_ms": 34791,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 801616,
+        "quest_id": 5003002
+      },
+      {
+        "best_elapsed_time_ms": 48454,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1427171,
+        "quest_id": 5003003
+      }
+    ],
+    "2": [
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 686323,
+        "quest_id": 1001001
+      },
+      {
+        "best_elapsed_time_ms": 45462,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 4374495,
+        "quest_id": 1002001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": false,
+        "high_score": null,
+        "quest_id": 1002002
+      },
+      {
+        "best_elapsed_time_ms": 56509,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 2260276,
+        "quest_id": 1003001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 2154655,
+        "quest_id": 1010001
+      }
+    ],
+    "3": [
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 101
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 102
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 103
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 301
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 302
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 303
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 12101501
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 14100101
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 21100501
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 21100502
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 21100503
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 22100201
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 22100202
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 22100203
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 23100301
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 23100302
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 23100303
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 24300101
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 31100401
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 33101101
+      }
+    ],
+    "4": [
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 322379,
+        "quest_id": 1001001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 382093,
+        "quest_id": 1002001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 357697,
+        "quest_id": 1002002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 419197,
+        "quest_id": 1003001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 534720,
+        "quest_id": 1004001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 625222,
+        "quest_id": 1005001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 892514,
+        "quest_id": 1005002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 605078,
+        "quest_id": 1006001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 637966,
+        "quest_id": 1006002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1132271,
+        "quest_id": 1007001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 871698,
+        "quest_id": 1008001
+      }
+    ],
+    "6": [
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 268402,
+        "quest_id": 15001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 667949,
+        "quest_id": 15002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 1685067,
+        "quest_id": 15003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 1781809,
+        "quest_id": 15004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 1580757,
+        "quest_id": 15005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 879405,
+        "quest_id": 16001
+      }
+    ],
+    "10": [
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 100001001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 674232,
+        "quest_id": 100001002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1224374,
+        "quest_id": 100001003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1469142,
+        "quest_id": 100001004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": false,
+        "high_score": null,
+        "quest_id": 100001005
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 100003001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 426142,
+        "quest_id": 100003002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 12152871,
+        "quest_id": 200001001
+      },
+      {
+        "best_elapsed_time_ms": 11271,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 27860,
+        "quest_id": 200012008
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 300001001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 372724,
+        "quest_id": 300001002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 300001003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 591611,
+        "quest_id": 300001004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 1400206,
+        "quest_id": 300001005
+      }
+    ],
+    "13": [
+      {
+        "best_elapsed_time_ms": 116135,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 2405998,
+        "quest_id": 1001
+      },
+      {
+        "best_elapsed_time_ms": 265788,
+        "clear_rank": 5,
+        "finished": true,
+        "high_score": 10380268,
+        "quest_id": 1008
+      }
+    ],
+    "14": [
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 253264,
+        "quest_id": 1001
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 980639,
+        "quest_id": 1002
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 759517,
+        "quest_id": 1003
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 1703962,
+        "quest_id": 1004
+      },
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": 1,
+        "finished": true,
+        "high_score": 2491441,
+        "quest_id": 1005
+      }
+    ],
+    "18": [
+      {
+        "best_elapsed_time_ms": null,
+        "clear_rank": null,
+        "finished": true,
+        "high_score": null,
+        "quest_id": 100404001
+      }
+    ]
+  },
+  "last_main_quest_id": null,
+  "gacha_info_list": [
+    {
+      "gacha_id": 2,
+      "is_daily_first": true,
+      "is_account_first": false,
+      "gacha_exchange_point": null
+    },
+    {
+      "gacha_id": 4,
+      "is_daily_first": true,
+      "is_account_first": true,
+      "gacha_exchange_point": null
+    },
+    {
+      "gacha_id": 900003,
+      "is_daily_first": true,
+      "is_account_first": true,
+      "gacha_exchange_point": null
+    },
+    {
+      "gacha_id": 157,
+      "is_daily_first": false,
+      "is_account_first": false,
+      "gacha_exchange_point": 1080
+    },
+    {
+      "gacha_id": 57,
+      "is_daily_first": true,
+      "is_account_first": true,
+      "gacha_exchange_point": null
+    },
+    {
+      "gacha_id": 5033,
+      "is_daily_first": true,
+      "is_account_first": true,
+      "gacha_exchange_point": 0
+    },
+    {
+      "gacha_id": 900000,
+      "is_daily_first": true,
+      "is_account_first": true,
+      "gacha_exchange_point": null
+    },
+    {
+      "gacha_id": 155,
+      "is_daily_first": false,
+      "is_account_first": false,
+      "gacha_exchange_point": 10
+    },
+    {
+      "gacha_id": 9,
+      "is_daily_first": true,
+      "is_account_first": true,
+      "gacha_exchange_point": null
+    },
+    {
+      "gacha_id": 700004,
+      "is_daily_first": true,
+      "is_account_first": true,
+      "gacha_exchange_point": 10
+    }
+  ],
+  "available_asset_version": "2.1.125",
+  "should_prompt_takeover_registration": false,
+  "has_unread_news_item": false,
+  "user_option": {
+    "gacha_play_no_rarity_up_movie": true,
+    "auto_play": false,
+    "number_notation_symbol": true,
+    "payment_alert": true,
+    "room_number_hidden": false,
+    "attention_sound_effect": true,
+    "attention_vibration": false,
+    "attention_enable_in_battle": true,
+    "simple_ability_description": true
+  },
+  "drawn_quest_list": [
+    {
+      "category_id": 6,
+      "quest_id": 1001,
+      "odds_id": 6
+    },
+    {
+      "category_id": 6,
+      "quest_id": 1002,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 1003,
+      "odds_id": 8
+    },
+    {
+      "category_id": 6,
+      "quest_id": 1004,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 1005,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 2001,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 2002,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 2003,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 2004,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 2005,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 3001,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 3002,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 3003,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 3004,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 3005,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 4001,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 4002,
+      "odds_id": 8
+    },
+    {
+      "category_id": 6,
+      "quest_id": 4003,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 4004,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 4005,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 5001,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 5002,
+      "odds_id": 6
+    },
+    {
+      "category_id": 6,
+      "quest_id": 5003,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 5004,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 5005,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 6001,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 6002,
+      "odds_id": 8
+    },
+    {
+      "category_id": 6,
+      "quest_id": 6003,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 6004,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 6005,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 7001,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 7002,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 7003,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 7004,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 7005,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 8001,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 8002,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 8003,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 8004,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 8005,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 9001,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 9002,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 9003,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 9004,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 9005,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 10001,
+      "odds_id": 8
+    },
+    {
+      "category_id": 6,
+      "quest_id": 10002,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 10003,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 10004,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 10005,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 11001,
+      "odds_id": 8
+    },
+    {
+      "category_id": 6,
+      "quest_id": 11002,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 11003,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 11004,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 11005,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 12001,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 12002,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 12003,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 12004,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 12005,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 13001,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 13002,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 13003,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 13004,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 13005,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 13006,
+      "odds_id": 6
+    },
+    {
+      "category_id": 6,
+      "quest_id": 14001,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 14002,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 14003,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 14004,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 14005,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 14006,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 15001,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 15002,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 15003,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 15004,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 15005,
+      "odds_id": 6
+    },
+    {
+      "category_id": 6,
+      "quest_id": 15006,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 16001,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 16002,
+      "odds_id": 6
+    },
+    {
+      "category_id": 6,
+      "quest_id": 16003,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 16004,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 16005,
+      "odds_id": 6
+    },
+    {
+      "category_id": 6,
+      "quest_id": 16006,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 17001,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 17002,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 17003,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 17004,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 17005,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 17006,
+      "odds_id": 8
+    },
+    {
+      "category_id": 6,
+      "quest_id": 18001,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 18002,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 18003,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 18004,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 18005,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 18006,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19001,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19002,
+      "odds_id": 6
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19003,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19004,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19005,
+      "odds_id": 4
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19006,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19007,
+      "odds_id": 1
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19008,
+      "odds_id": 5
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19009,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19010,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19011,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19012,
+      "odds_id": 7
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19013,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19014,
+      "odds_id": 6
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19015,
+      "odds_id": 9
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19016,
+      "odds_id": 3
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19017,
+      "odds_id": 2
+    },
+    {
+      "category_id": 6,
+      "quest_id": 19018,
+      "odds_id": 6
+    },
+    {
+      "category_id": 14,
+      "quest_id": 1001,
+      "odds_id": 15
+    },
+    {
+      "category_id": 14,
+      "quest_id": 1002,
+      "odds_id": 31
+    },
+    {
+      "category_id": 14,
+      "quest_id": 1003,
+      "odds_id": 17
+    },
+    {
+      "category_id": 14,
+      "quest_id": 1004,
+      "odds_id": 36
+    },
+    {
+      "category_id": 14,
+      "quest_id": 1005,
+      "odds_id": 36
+    },
+    {
+      "category_id": 14,
+      "quest_id": 1006,
+      "odds_id": 2
+    }
+  ],
+  "mail_arrived": false,
+  "user_periodic_reward_point_list": [
+    {
+      "id": 2,
+      "point": 2
+    },
+    {
+      "id": 3,
+      "point": 2
+    },
+    {
+      "id": 10000000,
+      "point": 2
+    }
+  ],
+  "all_active_mission_list": {
+    "11010": {
+      "progress": 20,
+      "stages": {
+        "1": true
+      }
+    },
+    "11020": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "11030": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "11040": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "11050": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "11060": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "11070": {
+      "progress": 56,
+      "stages": {
+        "1": true
+      }
+    },
+    "11080": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "11090": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "11100": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "11110": {
+      "progress": 10,
+      "stages": {
+        "1": true
+      }
+    },
+    "12010": {
+      "progress": 176,
+      "stages": {
+        "1": true
+      }
+    },
+    "12020": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "12030": {
+      "progress": 80,
+      "stages": {
+        "1": true
+      }
+    },
+    "12040": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "12050": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "12060": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "12070": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "12080": {
+      "progress": 4,
+      "stages": {
+        "1": true
+      }
+    },
+    "12090": {
+      "progress": 2,
+      "stages": {
+        "1": true
+      }
+    },
+    "12100": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "12110": {
+      "progress": 10,
+      "stages": {
+        "1": true
+      }
+    },
+    "13020": {
+      "progress": 1,
+      "stages": []
+    },
+    "13040": {
+      "progress": 56,
+      "stages": {
+        "1": true
+      }
+    },
+    "13060": {
+      "progress": 1,
+      "stages": {
+        "1": true
+      }
+    },
+    "13100": {
+      "progress": 2,
+      "stages": {
+        "1": true
+      }
+    },
+    "13110": {
+      "progress": 3,
+      "stages": []
+    },
+    "14060": {
+      "progress": 1,
+      "stages": {
+        "1": false
+      }
+    },
+    "14110": {
+      "progress": 1,
+      "stages": []
+    }
+  },
+  "cleared_collect_item_event_mission_list": [],
+  "box_gacha_list": {
+    "1011": [
+      {
+        "box_id": 1,
+        "reset_times": 0,
+        "remaining_number": 572,
+        "is_closed": false
+      },
+      {
+        "box_id": 2,
+        "reset_times": 0,
+        "remaining_number": 647,
+        "is_closed": false
+      },
+      {
+        "box_id": 3,
+        "reset_times": 0,
+        "remaining_number": 732,
+        "is_closed": false
+      },
+      {
+        "box_id": 4,
+        "reset_times": 0,
+        "remaining_number": 912,
+        "is_closed": false
+      },
+      {
+        "box_id": 5,
+        "reset_times": 0,
+        "remaining_number": 1401,
+        "is_closed": false
+      }
+    ]
+  },
+  "gacha_campaign_list": [
+    {
+      "gacha_id": 157,
+      "campaign_id": 19,
+      "count": 0
+    },
+    {
+      "gacha_id": 700004,
+      "campaign_id": 19,
+      "count": 1
+    },
+    {
+      "gacha_id": 155,
+      "campaign_id": 19,
+      "count": 0
+    }
+  ],
+  "purchased_times_list": {
+    "gs.kg.worldflipper.pakage_monthly": 0,
+    "gs.kg.worldflipper.pakage_rank": 0,
+    "gs.kg.worldflipper.pakage_monthly_90": 0,
+    "gs.kg.worldflipper.pakage_monthly_stamina": 0,
+    "gs.kg.worldflipper.pakage_monthly_kareido": 0,
+    "gs.kg.worldflipper.pakage_monthly_boss": 0,
+    "gs.kg.worldflipper.pakage_rank_2": 0,
+    "gs.kg.worldflipper.pakage_rank_3_1": 0,
+    "gs.kg.worldflipper.pakage_rank_4": 0,
+    "gs.kg.worldflipper.pakage_challenge_boost": 0
+  },
+  "start_dash_exchange_campaign_list": [],
+  "multi_special_exchange_campaign_list": [],
+  "associate_token": "associate_token",
+  "config": {
+    "attention_recruitment_interval_seconds": 15,
+    "attention_recruitment_redeliver_limit": 20,
+    "attention_polling_interval_seconds_normal": 10,
+    "attention_polling_interval_seconds_battle": 15,
+    "multi_attention_lifetime_seconds": 30,
+    "contribution_score_rate_to_parasite": 0.25,
+    "attention_log_interval_seconds": 600,
+    "disable_finish_duration_seconds": 5,
+    "disable_decline_count_seconds": 60,
+    "disable_decline_count_limit": 14,
+    "disable_decline_duration_seconds": 30,
+    "disable_intent_disconnect_duration_seconds": 300,
+    "disable_unintent_disconnect_duration_seconds": 5,
+    "disable_remote_error_duration_seconds": 300,
+    "attention_animation_time_seconds": 6,
+    "disable_expire_count_limit": 4,
+    "disable_expire_duration_seconds": 180,
+    "polling_delay_normal_seconds_range_min": 1,
+    "polling_delay_normal_seconds_range_max": 10,
+    "polling_delay_battle_seconds_range_min": 1,
+    "polling_delay_battle_seconds_range_max": 15,
+    "return_attention_max_num": 3
+  }
+}
