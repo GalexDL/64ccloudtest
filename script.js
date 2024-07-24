@@ -1,26 +1,44 @@
-const itemIds = [999000, 999001, 999003, 999004, 999005, 999002, 999006];
+const itemIds = [999000, 999001, 999003, 999004, 999005, 999002, 999006, 999008, 999009];
 const itemNames = ["Premium Ticket", "1-Pull Summoning Ticket", "10-Pull Summoning Ticket",
-                  "1-Pull Armament Ticket", "1-Pull Armament Ticket", "Dream Ticket Summon", "Dream Ticket Armament"];
+                  "1-Pull Armament Ticket", "1-Pull Armament Ticket", "Dream Ticket Summon", "Dream Ticket Armament", "4&5-Star Ticket", "Gift Ticket"];
+
+const userIds = ["name", "comment", "vmoney", "free_vmoney", "rank_point"];
+const userNames = ["Name", "Bio", "Paid Lodestar Beads", "Lodestar Beads", "Rank"];
 
 let itemList = document.getElementById("item-list");
 let saveButton = document.getElementById("save-button");
 let fileInput = document.getElementById("file-input");
+let userInfoList = document.getElementById("user-info");
+
 
 function generateItemList() {
   itemList.innerHTML = "";
   for (let i = 0; i < itemIds.length; i++) {
     const itemName = itemNames[i] || `Item ${itemIds[i]}`;
     const itemLabel = document.createElement("label");
-    itemLabel.textContent = `Amount of ${itemName}:`;
+    itemLabel.textContent = `${itemName}:`;
     const entry = document.createElement("input");
     entry.type = "number";
     itemList.appendChild(itemLabel);
     itemList.appendChild(entry);
   }
 }
+function generateUserInfoList() {
+  userInfoList.innerHTML = "";
+
+  for (let i = 0; i < userIds.length; i++) {
+    const userName = userNames[i];
+    const userInfoLabel = document.createElement("label");
+    userInfoLabel.textContent = userName + ":";
+    const userInfoInput = document.createElement("input");
+    userInfoList.appendChild(userInfoLabel);
+    userInfoList.appendChild(userInfoInput);
+  }
+}
 
 function validateAndSave() {
   const itemValues = [];
+  const userValues = [];
   for (const entry of itemList.querySelectorAll("input")) {
     const value = parseFloat(entry.value);
     if (isNaN(value)) {
@@ -35,11 +53,14 @@ function validateAndSave() {
       return;
     }
   }
-  saveData(itemValues);
+  for (const entry of document.querySelectorAll("#user-info input")) {
+    userValues.push(entry.value);
+  }
+  saveData(itemValues, userValues);
 }
 
 
-function saveData(itemValues) {
+function saveData(itemValues, userValues) {
   const fileInput = document.getElementById('file-input');
   const file = fileInput.files[0];
 
@@ -52,6 +73,16 @@ function saveData(itemValues) {
   reader.onload = function(e) {
     try {
       const existingData = JSON.parse(e.target.result);
+
+      const userValues = [];
+      for (const entry of document.querySelectorAll("#user-info input")) {
+        userValues.push(entry.value);
+      }
+
+      existingData.user_info = existingData.user_info || {};
+      for (let i = 0; i < userIds.length; i++) {
+        existingData.user_info[userIds[i]] = userValues[i];
+      }
 
 
       if (!existingData.item_list) {
@@ -84,18 +115,29 @@ function loadFile(event) {
   if (!file) {
     return;
   }
+
   const reader = new FileReader();
   reader.onload = function(e) {
     try {
       const data = JSON.parse(e.target.result);
-      if (!data.item_list) { // Corrected to look for item_list
-        throw new Error("Invalid JSON format. Missing 'item_list' property.");
+      if (!data.item_list) {
+        data.item_list = {};
       }
-      // Update item values based on loaded data
+      if (!data.user_info) {
+        data.user_info = {};
+      }
+
       const entries = itemList.querySelectorAll("input");
       for (let i = 0; i < entries.length; i++) {
-        entries[i].value = data.item_list[itemIds[i]] || ""; // Corrected to use item_list
+        const itemId = itemIds[i];
+        entries[i].value = data.item_list[itemId] !== undefined ? data.item_list[itemId] : 0;
       }
+      const userEntries = document.querySelectorAll("#user-info input");
+      for (let i = 0; i < userIds.length; i++) {
+        const userId = userIds[i];
+        userEntries[i].value = data.user_info[userId] !== undefined ? data.user_info[userId] : "";
+      }
+
       saveButton.disabled = false;
     } catch (error) {
       alert("Error loading file: " + error.message);
@@ -109,6 +151,7 @@ function loadFile(event) {
 
 
 
+generateUserInfoList()
 generateItemList();
 fileInput.addEventListener("change", loadFile);
 saveButton.addEventListener("click", validateAndSave);
