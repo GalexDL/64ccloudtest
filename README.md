@@ -1,7 +1,7 @@
 # World Flipper Save Editor
 
 
-INCOMPLETE INSTRUCATIONS GAH GSHA SGHA
+4 the unifnished Py file
 
 Please make a copy of your save file before using, if something goes wrong!
 
