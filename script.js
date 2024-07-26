@@ -2,8 +2,8 @@ const itemIds = [999000, 999001, 999003, 999004, 999005, 999002, 999006, 999008,
 const itemNames = ["Premium Ticket", "1-Pull Summoning Ticket", "10-Pull Summoning Ticket",
                   "1-Pull Armament Ticket", "1-Pull Armament Ticket", "Dream Ticket Summon", "Dream Ticket Armament", "4&5-Star Ticket", "Gift Ticket"];
 
-const userIds = ["name", "comment", "free_vmoney", "vmoney", "rank_point"];
-const userNames = ["Name", "Bio", "Lodestar Beads", "Paid Lodestar Beads", "Rank"];
+const userIds = ["name", "comment","rank_point", "free_vmoney", "vmoney", "free_mana", "paid_mana", "stamina", "stamina_heal_time", "boss_boost_point", "boost_point" ];
+const userNames = ["Name", "Bio", "Rank", "Lodestar Beads", "Paid Lodestar Beads", "Mana", "Paid Mana", "Stamina", "Stamina Regen Rate", "Daily Boss Boost", "Daily Boost" ];
 
 let itemList = document.getElementById("item-list");
 let saveButton = document.getElementById("save-button");
@@ -429,7 +429,7 @@ function createEquipmentButtons() {
   equipmentIds.forEach(equipmentId => {
     const button = document.createElement('button');
     const image = document.createElement('img');
-    image.src = `Equipment/${equipmentId}.png`; // Replace with your image path
+    image.src = `Equipment/${equipmentId}.png`;
     image.alt = `Equipment ${equipmentId}`;
     button.appendChild(image);
     button.addEventListener('click', () => addNewEquipment(equipmentId));
@@ -446,7 +446,7 @@ addEquipmentButton.addEventListener('click', () => {
   temporaryData.user_equipment_list[equipmentId] = newEquipment;
 });
 function addNewEquipment(equipmentId) {
-  const newEquipment = { ...defaultEquipment }; // Create a copy of defaultEquipment
+  const newEquipment = { ...defaultEquipment };
   temporaryData.user_equipment_list[equipmentId] = newEquipment;
 }
 
@@ -533,7 +533,7 @@ function saveData(itemValues, userValues, equipmentList) {
       for (let i = 0; i < itemIds.length; i++) {
         existingData.item_list[itemIds[i]] = itemValues[i];
       }
-      // Merge new equipment list into existing equipment list
+
       existingData.item_list = { ...existingData.item_list, ...temporaryData.item_list };
       existingData.user_info = { ...existingData.user_info, ...temporaryData.user_info };
       existingData.user_equipment_list = { ...existingData.user_equipment_list, ...temporaryData.user_equipment_list };
