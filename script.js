@@ -3,7 +3,7 @@ const itemNames = ["Premium Ticket", "1-Pull Summoning Ticket", "10-Pull Summoni
                   "1-Pull Armament Ticket", "1-Pull Armament Ticket", "Dream Ticket Summon", "Dream Ticket Armament", "4&5-Star Ticket", "Gift Ticket"];
 
 const userIds = ["name", "comment","rank_point", "free_vmoney", "vmoney", "free_mana", "paid_mana", "stamina", "stamina_heal_time", "boss_boost_point", "boost_point" ];
-const userNames = ["Name", "Bio", "Rank", "Lodestar Beads", "Paid Lodestar Beads", "Mana", "Paid Mana", "Stamina", "Stamina Regen Rate", "Daily Boss Boost", "Daily Boost" ];
+const userNames = ["Name", "Bio", "Rank EXP", "Lodestar Beads", "Paid Lodestar Beads", "Mana", "Paid Mana", "Stamina (Stored)", "Stamina Regen Rate", "Daily Boss Boost", "Daily Boost" ];
 
 let itemList = document.getElementById("item-list");
 let saveButton = document.getElementById("save-button");
