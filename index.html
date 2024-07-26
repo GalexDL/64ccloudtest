@@ -4,17 +4,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WF Save Editor</title>
+
 </head>
 <body>
+  <hr><hr>
+  <input type="file" id="file-input" accept=".json">
+
   <h3>User Info</h3>
   <div id="user-info">
     </div>
   <h3>Item List</h3>
   <div id="item-list">
     </div>
-  <br>
-  <input type="file" id="file-input" accept=".json">
+  <h3>Equipment List</h3>
+  <div id="equipmentButtons">
+    </div>
+  <button style="display: none;" id="addEquipmentButton">Add Equipment</button>
+    <hr>
   <button id="save-button" disabled>Save Changes</button>
+    <hr>
   <script src="script.js"></script>
   <link rel="stylesheet" href="style.css">
   <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
