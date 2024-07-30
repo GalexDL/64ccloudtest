@@ -5,24 +5,100 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WF Save Editor</title>
 
-</head>
-<body>
-  <hr><hr>
-  <input type="file" id="file-input" accept=".json">
 
-  <h3>User Info</h3>
-  <div id="user-info">
+</head>
+
+
+
+<body>
+  <hr>
+
+  <img class="Starpoint" src="Starpoint/logo.png" onclick="StarPoint()"><img>
+  <div class="Top-Web">
+    <h2>Save Editor</h2>
+    <div class="CHEAIT-container">
+      <button class="rounded-CHEAIT1" onclick="ItemButton()">Items</button>
+      <button class="inner-CHEAIT" onclick="ArmamentButton()">Armament</button>
+      <button class="inner-CHEAIT" onclick="UnitsButton()">Units</button>
+      <button class="rounded-CHEAIT2" onclick="ContentButton()">Content</button>
     </div>
-  <h3>Item List</h3>
-  <div id="item-list">
+  </div>
+
+  <div>
+  </div>
+
+  <hr><hr><hr>
+
+  <div class="container">
+    <h2 class="user-info-label">User Info</h2>
+    <div id="user-info">
+      </div>
+    <div class="item-container" id="IC">
+      <h2 id="item-list-cTic">Tickets</h2>
+      <div id="item-list"></div>
+      <h2 id="item-list-consume-cTic">Consumables</h2>
+      <div id="item-list-consume"></div>
+
+      <div class="item-container-bottom1" id="ICB1">
+      <h2 id="item-list-Wrightpiece-cTic">Wrightpiece</h2>
+      <h2 id="item-list-StarSpeck-cTic">Star Speck</h2>
+      </div>
+
+      <div class="item-container-bottom2" id="ICB2">
+      <div id="item-list-Wrightpiece"></div>
+      <div id="item-list-StarSpeck"></div>
+      </div>
+
     </div>
-  <h3>Equipment List</h3>
-  <div id="equipmentButtons">
-    </div>
-  <button style="display: none;" id="addEquipmentButton">Add Equipment</button>
+
+    <h2  style="display: none;">Equipment List</h2>
+    <div style="display: none;" id="equipmentButtons">
+      </div>
+    <button style="display: none;" id="addEquipmentButton">Add Equipment</button>
+
+  </div>
+
+  <div class="EntireUpload1">
+      <h3 >Insert Savefile:</h3>
+      <input class="EntireUpload2" type="file" id="file-input" accept=".json" style="color: #ebe2cb;">
+      <button onclick="getFileAndPopulateInput()" class="EntireUpload3">Import Local Save (Cors Enabled)</button>
+
+      <button class="EntireUpload4" id="save-button" disabled>Download Changes</button>
+  </div>
+
+
     <hr>
-  <button id="save-button" disabled>Save Changes</button>
-    <hr>
+
+
+
+  <script>
+
+    function getFileAndPopulateInput() {
+      const inputElement = document.getElementById('file-input');
+
+      fetch('http://localhost:8000/api/player/save?id=1', { method: 'GET' })
+        .then(response => response.blob())
+        .then(blob => {
+          // Create a File
+          const file = new File([blob], 'RecentSave.json', { type: 'application/json' });
+
+          ////////////////////
+          const fileList = new DataTransfer();
+          fileList.items.add(file);
+
+          //////////////////
+          const event = new Event('change', { bubbles: true });
+          inputElement.files = fileList.files;
+          inputElement.dispatchEvent(event);
+        })
+        .catch(error => {
+          console.error('Error fetching file:', error);
+        });
+    }
+
+
+  </script>
+
   <script src="script.js"></script>
   <link rel="stylesheet" href="style.css">
   <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>

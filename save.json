@@ -805,6 +805,24 @@
       ],
       "mana_board_index": 1
     },
+    "131140": {
+      "entry_count": 1,
+      "evolution_level": 1,
+      "over_limit_step": 0,
+      "protection": false,
+      "join_time": 1718067320,
+      "update_time": 1718067320,
+      "exp": 0,
+      "stack": 0,
+      "bond_token_list": [{
+          "mana_board_index": 1,
+          "status": 0
+      }, {
+          "mana_board_index": 2,
+          "status": 0
+      }],
+      "mana_board_index": 1
+    },
     "151165": {
       "entry_count": 1,
       "evolution_level": 1,
@@ -4172,6 +4190,7 @@
       ],
       "mana_board_index": 1
     },
+
     "532004": {
       "entry_count": 1,
       "evolution_level": 0,
@@ -4340,7 +4359,7 @@
         "3": {
           "name": "Party C",
           "character_ids": [
-            151165,
+            131140,
             151153,
             151147
           ],
@@ -5997,15 +6016,6 @@
     "50102": 1,
     "100000": 1815,
     "500000": 6,
-    "980001": 0,
-    "990008": 160,
-    "999000": 4646,
-    "999001": 4646,
-    "999002": 8668,
-    "999003": 4674,
-    "999004": 74574,
-    "999005": 84846,
-    "999006": 86868,
     "1010001": 1
   },
   "user_equipment_list": {

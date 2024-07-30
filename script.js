@@ -1,27 +1,3 @@
-const itemIds = [999000, 999001, 999003, 999004, 999005, 999002, 999006, 999008, 999009];
-const itemNames = ["Premium Ticket", "1-Pull Summoning Ticket", "10-Pull Summoning Ticket",
-                  "1-Pull Armament Ticket", "1-Pull Armament Ticket", "Dream Ticket Summon", "Dream Ticket Armament", "4&5-Star Ticket", "Gift Ticket"];
-
-const userIds = ["name", "comment","rank_point", "free_vmoney", "vmoney", "free_mana", "paid_mana", "stamina", "stamina_heal_time", "boss_boost_point", "boost_point" ];
-const userNames = ["Name", "Bio", "Rank EXP", "Lodestar Beads", "Paid Lodestar Beads", "Mana", "Paid Mana", "Stamina (Stored)", "Stamina Regen Rate", "Daily Boss Boost", "Daily Boost" ];
-
-let itemList = document.getElementById("item-list");
-let saveButton = document.getElementById("save-button");
-let fileInput = document.getElementById("file-input");
-let userInfoList = document.getElementById("user-info");
-
-const defaultEquipment = {
-  enhancement_level: 0,
-  level: 1,
-  protection: false,
-  stack: 0
-};
-let temporaryData = {
-  item_list: {},
-  user_info: {},
-  user_equipment_list: {}
-};
-
 const equipmentIds = [        2020001,
   1080001,
   1060001,
@@ -422,6 +398,46 @@ const equipmentNames = {
   100002: "Equipment 2",
 };
 
+const itemIds = [999000, 999001, 999003, 999004, 999005, 999002, 999006, 999008, 999009, 20003, 20004, 20067];
+const itemNames = ["Premium Ticket", "1-Pull Summoning Ticket", "10-Pull Summoning Ticket",
+                  "1-Pull Armament Ticket", "1-Pull Armament Ticket", "Dream Ticket Summon", "Dream Ticket Armament", "4&5-Star Ticket", "Gift Ticket",
+                  "4 & 5-Star Exclusive Ticket", "5-Star Exclusive Ticket", "4 & 5-Star Exclusive & Limited Ticket"];
+
+const itemIdsConsume = [101, 102, 106, 901, 50104, 50105, 50106, 50107];
+const itemNamesConsume = ["Staminade Swig", "Staminade Flask", "Staminade Decanter","Nimbus' Marshmallows 2021", "Cacao Fruit", "Parfait's Handmade Chocolate", "Alk's Macaron 2022", "Polar Bear Cookies"];
+
+const itemIdsWrightpiece = [100000];
+const itemNamesWrightpiece = ["Wrightpiece"];
+
+const itemIdsStarSpeck = [990008];
+const itemNamesStarSpeck = ["Star Speck"];
+
+const userIds = ["name", "comment","rank_point", "free_vmoney", "vmoney", "free_mana", "paid_mana", "stamina", "stamina_heal_time", "boss_boost_point", "boost_point" ];
+const userNames = ["Name", "Bio", "Rank EXP", "Lodestar Beads", "Paid Lodestar Beads", "Mana", "Paid Mana", "Stamina (Stored)", "Stamina Regen Rate", "Daily Boss Boost", "Daily Boost" ];
+
+let itemList = document.getElementById("item-list");
+let itemListConsume = document.getElementById("item-list-consume");
+let itemListWrightpiece = document.getElementById("item-list-Wrightpiece");
+let itemListStarSpeck = document.getElementById("item-list-StarSpeck");
+
+let saveButton = document.getElementById("save-button");
+let fileInput = document.getElementById("file-input");
+let userInfoList = document.getElementById("user-info");
+
+const defaultEquipment = {
+  enhancement_level: 0,
+  level: 1,
+  protection: false,
+  stack: 0
+};
+let temporaryData = {
+  item_list: {},
+  user_info: {},
+  user_equipment_list: {}
+};
+
+
+
 function createEquipmentButtons() {
   const buttonContainer = document.getElementById('equipmentButtons');
   buttonContainer.innerHTML = '';
@@ -436,8 +452,6 @@ function createEquipmentButtons() {
     buttonContainer.appendChild(button);
   });
 }
-
-
 
 
 const addEquipmentButton = document.getElementById('addEquipmentButton');
@@ -463,8 +477,71 @@ function generateItemList() {
     entry.type = "number";
     itemList.appendChild(itemLabel);
     itemList.appendChild(entry);
+    itemList.style.marginTop = "10px";
   }
 }
+
+function generateConsumeItemList() {
+  itemListConsume.innerHTML = "";
+  for (let i = 0; i < itemIdsConsume.length; i++) {
+    //const itemId = itemIdsConsume[i];
+    const itemName = itemNamesConsume[i];
+    const itemLabel = document.createElement("label");
+    itemLabel.textContent = `${itemName}:`;
+    const entry = document.createElement("input");
+    entry.type = "number";
+    itemListConsume.appendChild(itemLabel);
+    itemListConsume.appendChild(entry);
+    itemListConsume.style.marginTop = "10px";
+  }
+}
+
+function generateWrightpieceItemList() {
+  itemListWrightpiece.innerHTML = "";
+  for (let i = 0; i < itemIdsWrightpiece.length; i++) {
+    const itemName = itemNamesConsume[i];
+    const itemLabel = document.createElement("label");
+    itemLabel.textContent = `${itemName}:`;
+    const entry = document.createElement("input");
+    entry.type = "number";
+
+    const itemImage = document.createElement("img");
+    itemImage.src = `Items/${itemIdsWrightpiece}.png`;
+    itemImage.style.width = "30px";
+    itemImage.style.marginLeft = "10px";
+    itemImage.style.marginTop = "5px";
+    itemImage.classList.add("item-image");
+
+    itemListWrightpiece.appendChild(itemImage);
+    //itemListWrightpiece.appendChild(itemLabel);
+    itemListWrightpiece.appendChild(entry);
+    itemListWrightpiece.style.marginTop = "10px";
+  }
+}
+
+function generateStarSpeckItemList() {
+  itemListStarSpeck.innerHTML = "";
+  for (let i = 0; i < itemIdsStarSpeck.length; i++) {
+    const itemName = itemNamesConsume[i];
+    const itemLabel = document.createElement("label");
+    itemLabel.textContent = `${itemName}:`;
+    const entry = document.createElement("input");
+    entry.type = "number";
+
+    const itemImage = document.createElement("img");
+    itemImage.src = `Items/${itemIdsStarSpeck}.png`;
+    itemImage.style.width = "40px";
+    itemImage.style.marginLeft = "10px";
+    itemImage.style.marginTop = "10px";
+    itemImage.classList.add("item-image");
+
+    itemListStarSpeck.appendChild(itemImage);
+    //itemListStarSpeck.appendChild(itemLabel);
+    itemListStarSpeck.appendChild(entry);
+    itemListStarSpeck.style.marginTop = "10px";
+  }
+}
+
 function generateUserInfoList() {
   userInfoList.innerHTML = "";
 
@@ -475,12 +552,18 @@ function generateUserInfoList() {
     const userInfoInput = document.createElement("input");
     userInfoList.appendChild(userInfoLabel);
     userInfoList.appendChild(userInfoInput);
+    userInfoLabel.style.marginTop = "10px";
+    userInfoInput.style.marginTop = "10px";
+
   }
 }
 
 function validateAndSave() {
   const itemValues = [];
   const userValues = [];
+  const consumeItemValues = [];
+  const WrightpieceItemValues = [];
+  const StarSpeckItemValues = [];
   for (const entry of itemList.querySelectorAll("input")) {
     const value = parseFloat(entry.value);
     if (isNaN(value)) {
@@ -495,14 +578,63 @@ function validateAndSave() {
       return;
     }
   }
+  ///Consume
+  for (const entry of itemListConsume.querySelectorAll("#item-list-consume input")) {
+    const value = parseFloat(entry.value);
+    if (isNaN(value)) {
+      alert("Invalid input! Please enter a valid number for each consumable item.");
+      return;
+    }
+
+    if (Number.isInteger(value)) {
+      consumeItemValues.push(value);
+    } else {
+      alert("Decimal values are not allowed. Please enter whole numbers for consumable item amounts.");
+      return;
+    }
+  }
+  //////
+  ///Wrightpiece
+  for (const entry of itemListWrightpiece.querySelectorAll("#item-list-Wrightpiece input")) {
+    const value = parseFloat(entry.value);
+    if (isNaN(value)) {
+      alert("Invalid input! Please enter a valid number for each consumable item.");
+      return;
+    }
+
+    if (Number.isInteger(value)) {
+      WrightpieceItemValues.push(value);
+    } else {
+      alert("Decimal values are not allowed. Please enter whole numbers for consumable item amounts.");
+      return;
+    }
+  }
+  //////
+  ///StarSpeck
+  for (const entry of itemListStarSpeck.querySelectorAll("#item-list-StarSpeck input")) {
+    const value = parseFloat(entry.value);
+    if (isNaN(value)) {
+      alert("Invalid input! Please enter a valid number for each consumable item.");
+      return;
+    }
+
+    if (Number.isInteger(value)) {
+      StarSpeckItemValues.push(value);
+    } else {
+      alert("Decimal values are not allowed. Please enter whole numbers for consumable item amounts.");
+      return;
+    }
+  }
+  //////
   for (const entry of document.querySelectorAll("#user-info input")) {
     userValues.push(entry.value);
   }
-  saveData(itemValues, userValues);
+
+  saveData(itemValues, userValues, consumeItemValues, WrightpieceItemValues, StarSpeckItemValues);
 }
 
 
-function saveData(itemValues, userValues, equipmentList) {
+function saveData(itemValues, userValues, consumeItemValues, WrightpieceItemValues, StarSpeckItemValues, equipmentList, ) {
   const fileInput = document.getElementById('file-input');
   const file = fileInput.files[0];
 
@@ -534,6 +666,15 @@ function saveData(itemValues, userValues, equipmentList) {
         existingData.item_list[itemIds[i]] = itemValues[i];
       }
 
+      for (let i = 0; i < itemIdsConsume.length; i++) {
+        existingData.item_list[itemIdsConsume[i]] = consumeItemValues[i];
+      }
+      for (let i = 0; i < itemIdsWrightpiece.length; i++) {
+        existingData.item_list[itemIdsWrightpiece[i]] = WrightpieceItemValues[i];
+      }
+      for (let i = 0; i < itemIdsStarSpeck.length; i++) {
+        existingData.item_list[itemIdsStarSpeck[i]] = StarSpeckItemValues[i];
+      }
       existingData.item_list = { ...existingData.item_list, ...temporaryData.item_list };
       existingData.user_info = { ...existingData.user_info, ...temporaryData.user_info };
       existingData.user_equipment_list = { ...existingData.user_equipment_list, ...temporaryData.user_equipment_list };
@@ -577,6 +718,22 @@ function loadFile(event) {
         const itemId = itemIds[i];
         entries[i].value = data.item_list[itemId] !== undefined ? data.item_list[itemId] : 0;
       }
+      const consumeItemEntries = itemListConsume.querySelectorAll("#item-list-consume input");
+      for (let i = 0; i < itemIdsConsume.length; i++) {
+        const itemId = itemIdsConsume[i];
+        consumeItemEntries[i].value = data.item_list[itemId] !== undefined ? data.item_list[itemId] : 0;
+      }
+      const WrightpieceItemEntries = itemListWrightpiece.querySelectorAll("#item-list-Wrightpiece input");
+      for (let i = 0; i < itemIdsWrightpiece.length; i++) {
+        const itemId = itemIdsWrightpiece[i];
+        WrightpieceItemEntries[i].value = data.item_list[itemId] !== undefined ? data.item_list[itemId] : 0;
+      }
+      const StarSpeckItemEntries = itemListStarSpeck.querySelectorAll("#item-list-StarSpeck input");
+      for (let i = 0; i < itemIdsStarSpeck.length; i++) {
+        const itemId = itemIdsStarSpeck[i];
+        StarSpeckItemEntries[i].value = data.item_list[itemId] !== undefined ? data.item_list[itemId] : 0;
+      }
+
       const userEntries = document.querySelectorAll("#user-info input");
       for (let i = 0; i < userIds.length; i++) {
         const userId = userIds[i];
@@ -591,13 +748,149 @@ function loadFile(event) {
   reader.readAsText(file);
 }
 
+//Top Web Buttons
+function ArmamentButton() {
+  const equipmentButtons0 = document.getElementById('equipmentButtons');
+  const itemList0 = document.getElementById('item-list');
+  const itemList1 = document.getElementById('item-list-consume');
+  const itemList2 = document.getElementById('item-list-Wrightpiece');
+  const itemList3 = document.getElementById('item-list-StarSpeck');
+  const ItemTicket = document.getElementById('item-list-cTic');
+  const ItemConsume = document.getElementById('item-list-consume-cTic');
+  const ItemWrightpiece = document.getElementById('item-list-Wrightpiece-cTic');
+  const ItemStarSpeck = document.getElementById('item-list-StarSpeck-cTic');
+  const IC = document.getElementById('IC');
+  const ICB1 = document.getElementById('ICB1');
+  const ICB2 = document.getElementById('ICB2');
 
 
 
+  if (equipmentButtons0) {
+    equipmentButtons0.style.display = 'block';
+  }
+  if (itemList0) {
+    itemList0.style.display = 'none';
+    itemList1.style.display = 'none';
+    itemList2.style.display = 'none';
+    itemList3.style.display = 'none';
+    ItemTicket.style.display = 'none';
+    ItemConsume.style.display = 'none';
+    ItemWrightpiece.style.display = 'none';
+    ItemStarSpeck.style.display = 'none';
+    IC.style.display = 'none';
+    ICB1.style.display = 'none';
+    ICB2.style.display = 'none';
+  }
+}
+function ItemButton() {
+  const equipmentButtons0 = document.getElementById('equipmentButtons');
+  const itemList0 = document.getElementById('item-list');
+  const itemList1 = document.getElementById('item-list-consume');
+  const itemList2 = document.getElementById('item-list-Wrightpiece');
+  const itemList3 = document.getElementById('item-list-StarSpeck');
+  const ItemTicket = document.getElementById('item-list-cTic');
+  const ItemConsume = document.getElementById('item-list-consume-cTic');
+  const ItemWrightpiece = document.getElementById('item-list-Wrightpiece-cTic');
+  const ItemStarSpeck = document.getElementById('item-list-StarSpeck-cTic');
+  const IC = document.getElementById('IC');
+  const ICB1 = document.getElementById('ICB1');
+  const ICB2 = document.getElementById('ICB2');
+
+  if (itemList0) {
+    itemList0.style.display = 'grid';
+    itemList1.style.display = 'grid';
+    ItemTicket.style.display = 'grid';
+    ItemConsume.style.display = 'grid';
+    itemList2.style.display = 'grid';
+    itemList3.style.display = 'grid';
+    ItemWrightpiece.style.display = 'grid';
+    ItemStarSpeck.style.display = 'grid';
+    IC.style.display = 'flex';
+    ICB1.style.display = 'flex';
+    ICB2.style.display = 'flex';
+  }
+  if (window.innerWidth <= 1098) {
+    if (itemList0) {
+      itemList0.style.display = 'grid';
+      itemList1.style.display = 'grid';
+      ItemTicket.style.display = 'grid';
+      ItemConsume.style.display = 'grid';
+      itemList2.style.display = 'grid';
+      itemList3.style.display = 'grid';
+      ItemWrightpiece.style.display = 'grid';
+      ItemStarSpeck.style.display = 'grid';
+      IC.style.display = 'grid';
+      ICB1.style.display = 'flex';
+      ICB2.style.display = 'flex';
+    }
+  }
+
+  if (equipmentButtons0) {
+    equipmentButtons0.style.display = 'none';
+  }
+}
+function UnitsButton() {
+  const equipmentButtons0 = document.getElementById('equipmentButtons');
+  const itemList0 = document.getElementById('item-list');
+  const itemList1 = document.getElementById('item-list-consume');
+  const ItemTicket = document.getElementById('item-list-cTic');
+  const ItemConsume = document.getElementById('item-list-consume-cTic');
+
+  if (itemList0) {
+    itemList0.style.display = 'none';
+    itemList1.style.display = 'none';
+    ItemTicket.style.display = 'none';
+    ItemConsume.style.display = 'none';
+  }
+  if (equipmentButtons0) {
+    equipmentButtons0.style.display = 'none';
+  }
+}
+function ContentButton() {
+  const equipmentButtons0 = document.getElementById('equipmentButtons');
+  const itemList0 = document.getElementById('item-list');
+  const itemList1 = document.getElementById('item-list-consume');
+  const ItemTicket = document.getElementById('item-list-cTic');
+  const ItemConsume = document.getElementById('item-list-consume-cTic');
+
+  if (itemList0) {
+    itemList0.style.display = 'none';
+    ItemTicket.style.display = 'none';
+    itemList1.style.display = 'none';
+    ItemConsume.style.display = 'none';
+  }
+  if (equipmentButtons0) {
+    equipmentButtons0.style.display = 'none';
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function StarPoint(){
+  window.location.href = 'http://localhost:8000/';
+}
 
 
 generateUserInfoList()
+generateConsumeItemList()
 generateItemList();
+generateWrightpieceItemList()
+generateStarSpeckItemList()
 createEquipmentButtons();
 fileInput.addEventListener("change", loadFile);
 saveButton.addEventListener("click", validateAndSave);
